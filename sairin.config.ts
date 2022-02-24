@@ -8,15 +8,15 @@ export default {
   },
   theme: BlogTheme,
   themeConfig: {
-    title: `Sairin`,
+    title: `疯狂星期四`,
     links: [
       {
         title: "GitHub",
-        url: "https://github.com/djyde/sairin",
+        url: "https://github.com/xiongbao/crazy-thursday",
       },
       {
-        title: "Twitter",
-        url: "https://twitter.com/randyloop",
+        title: "Boring Studio",
+        url: "https://the.boring.studio",
       },
     ],
   },
